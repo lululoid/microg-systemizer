@@ -1,0 +1,6 @@
+id=microg_systemizer
+name=MicroG Systemizer
+version=v1.0.0
+versionCode=1
+author=tomei_yumeoka
+description=Systemlessly mount installed microG into priv-app
